@@ -1,0 +1,74 @@
+$themeColor: #000000 !default;
+
+@import '~swiper/swiper.scss';
+@import '~swiper/components/a11y/a11y.scss';
+@import '~swiper/components/controller/controller.scss';
+@import '~swiper/components/effect-coverflow/effect-coverflow.scss';
+@import '~swiper/components/effect-cube/effect-cube.scss';
+@import '~swiper/components/effect-fade/effect-fade.scss';
+@import '~swiper/components/effect-flip/effect-flip.scss';
+@import '~swiper/components/lazy/lazy.scss';
+@import '~swiper/components/navigation/navigation.scss';
+@import '~swiper/components/pagination/pagination.scss';
+@import '~swiper/components/scrollbar/scrollbar.scss';
+@import '~swiper/components/thumbs/thumbs.scss';
+@import '~swiper/components/zoom/zoom.scss';
+
+:root {
+  --swiper-navigation-size: 20px;
+}
+
+.swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  color: #FFF;
+  background: rgba($color: #000000, $alpha: 0.6);
+  z-index: 9;
+}
+
+#hero-slider,
+#hero-slider .swiper-wrapper {
+  height: 100%;
+}
+
+#hero-slider .swiper-slide {
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#resource-slider {
+  width: 600px;
+}
+
+#events-slider {
+  width: 100%;
+}
+
+#achivement-slider {
+  height: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  #resource-slider {
+    width: 85%;
+  }
+
+  #hero-slider,
+  #hero-slider .swiper-wrapper {
+    height: 200px;
+  }
+
+  #hero-slider .swiper-slide {
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}

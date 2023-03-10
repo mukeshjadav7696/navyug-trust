@@ -1,0 +1,47 @@
+{
+  "trusteelist": [
+    {
+      "id": 101,
+      "name": "Mr. Maheshbhai C. Pithawalla",
+      "designation_description": "President Trustee",
+      "designation": "President – Pithawala Stadium Bhimpore. Industrialist and Director – Pithawalla Group and Industries.Member of various social cultural education public institutions.",
+      "email": "",
+      "is_president": true,
+      "profile_pic": "/img/trustees/mahesh-c-p.jpg",
+      "message_title": "Message of the President",
+      "message_detail": "Science and Technology are changing rapidly and they are shaping many of the key developments in modern society. A well chosen Technical Courses degree program will help you to develop the positive qualities sought by employers the world over and will give you the opportunity to lead scientific technological resource developments. Higher education and research are the most effective Tools to counter problems ranging from poverty, hunger, superstitions relentless  wastage of resources, social disparities, health hazards, disastrous diseases and environmental degradation to Economic back warmness."
+    },
+    {
+      "id": 102,
+      "name": "Mr. Ajitbhai C. Pithawalla",
+      "designation_description": "",
+      "designation": "Industrialist Director – Pithawalla Group &amp; Industries. Member of various social education public institutions",
+      "email": "",
+      "profile_pic": "/img/trustees/ajit-c-p.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Mr. Rameshbhai A. Mistry",
+      "designation_description": "",
+      "designation": "Administrative Officer – C.K.Pithawala College of Engg &amp; Technology, Surat",
+      "email": "",
+      "profile_pic": "/img/trustees/ramesh-a-m.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Mr. Biren M. Pithawalla",
+      "designation_description": "",
+      "designation": "Industrialist- Member of various social educational public Institutions.",
+      "email": "",
+      "profile_pic": "/img/trustees/biren-m-p.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Mr. Rahul A. Pithawalla",
+      "designation_description": "",
+      "designation": "Industrialist- Member of various social educational public Institutions.",
+      "email": "",
+      "profile_pic": "/img/trustees/rahul-a-p.jpg"
+    }
+  ]
+}

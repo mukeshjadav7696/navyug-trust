@@ -1,0 +1,131 @@
+{
+    "services": [
+        {
+            "url": "javascript:;",
+            "is_router": false,
+            "title": "Objective",
+            "subtitle": "Empowering the Education",
+            "is_icon": false,
+            "is_icon_image": true,
+            "image": "/img/medal.svg"
+        },
+        {
+            "url": "javascript:;",
+            "is_router": false,
+            "title": "Process",
+            "subtitle": "Achieving Excellence Together",
+            "is_icon": false,
+            "is_icon_image": true,
+            "image": "/img/manual-transmission.svg"
+        },
+        {
+            "url": "javascript:;",
+            "is_router": false,
+            "title": "Outcome",
+            "subtitle": "Creating a Community of Life-Long Learners",
+            "is_icon": false,
+            "is_icon_image": true,
+            "image": "/img/maps.svg"
+        },
+        {
+            "url": "javascript:;",
+            "is_router": false,
+            "title": "Culture",
+            "subtitle": "The NVT Way",
+            "is_icon": false,
+            "is_icon_image": true,
+            "image": "/img/basketball-ball.svg"
+        }
+    ],
+    "missionSlider": [
+        {
+            "image_url": "/img/home-page/mission-vision/01.jpg",
+            "title": "",
+            "subtitle": ""
+        },
+        {
+            "image_url": "/img/home-page/mission-vision/07.jpg",
+            "title": "",
+            "subtitle": ""
+        },
+        {
+            "image_url": "/img/home-page/mission-vision/08.jpg",
+            "title": "",
+            "subtitle": ""
+        },
+        {
+            "image_url": "/img/home-page/mission-vision/11.jpg",
+            "title": "",
+            "subtitle": ""
+        },
+        {
+            "image_url": "/img/home-page/mission-vision/13.jpg",
+            "title": "",
+            "subtitle": ""
+        },
+        {
+            "image_url": "/img/home-page/mission-vision/20.jpg",
+            "title": "",
+            "subtitle": ""
+        },
+        {
+            "image_url": "/img/home-page/mission-vision/24.jpg",
+            "title": "",
+            "subtitle": ""
+        },
+        {
+            "image_url": "/img/home-page/mission-vision/31.jpg",
+            "title": "",
+            "subtitle": ""
+        },
+        {
+            "image_url": "/img/home-page/mission-vision/32.jpg",
+            "title": "",
+            "subtitle": ""
+        }
+    ],
+    "institutes": [
+        {
+            "url": "/institute/arts-college",
+            "title": "Navyug Arts College",
+            "image_url": "/img/institutes/arts.jpg",
+            "website": "https://navyugartscollege.org/"
+        },
+        {
+            "url": "/institute/science-college",
+            "title": "Navyug Science College",
+            "image_url": "/img/institutes/science.jpg",
+            "website": "http://nscsurat.ac.in/"
+        },
+        {
+            "url": "/institute/commerce-college",
+            "title": "Navyug Commerce College",
+            "image_url": "/img/institutes/commerce.jpg",
+            "website": "http://navyugcommerce.com/"
+        },
+        {
+            "url": "/institute/english-school",
+            "title": "C. K. Pithawalla English School",
+            "image_url": "/img/institutes/school.jpg"
+        },
+        {
+            "url": "/institute/ckpcet",
+            "title": "C. K. Pithawalla College of Engineering & Technology",
+            "image_url": "/img/institutes/engineering.jpg",
+            "website": "https://ckpcet.ac.in/"
+        },
+        {
+            "url": "/institute/ckpipsr",
+            "title": "C. K. Pithawalla Institute of Pharmaceutical Science & Research",
+            "image_url": "/img/institutes/pharmacy.jpg",
+            "website": "https://ckpipsr.ac.in/"
+        }
+    ],
+    "websites": {
+        "arts": "https://navyugartscollege.org/",
+        "science": "http://nscsurat.ac.in/",
+        "commerce": "http://navyugcommerce.com/",
+        "engineering": "https://ckpcet.ac.in/",
+        "pharmacy": "https://ckpipsr.ac.in/"
+    }
+}

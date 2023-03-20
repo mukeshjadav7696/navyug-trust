@@ -15,7 +15,7 @@
           </button>
         </div>
         <figure class="">
-          <img src="/img/home-page/statue.jpg" />
+          <img src="/img/home-page/statue-updated.jpg" />
         </figure>
       </div>
     </div>

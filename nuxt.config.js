@@ -12,7 +12,8 @@ export default {
       { hid: 'description', name: 'description', content: '' }
     ],
     link: [
-      { rel: 'shortcut icon', type: 'image/x-icon', href: '/~assets/img/favicon.png' },
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'preconnect', href: 'https://fonts.gstatic.com' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap' },
     ],
@@ -34,7 +35,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-	// { src: '@/plugins/swiper-plugin.js', mode: 'client' },
+    // { src: '@/plugins/swiper-plugin.js', mode: 'client' },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -60,11 +61,11 @@ export default {
     // '/api/': 'https://app.ckpcet.ac.in/',
     '/api/': {
       target: 'https://app.ckpcet.ac.in/',
-      pathRewrite: {'^/api/': ''}
+      pathRewrite: { '^/api/': '' }
     },
     '/app-img/': {
       target: 'https://app.ckpcet.ac.in/',
-      pathRewrite: {'^/app-img/': ''}
+      pathRewrite: { '^/app-img/': '' }
     },
     changeOrigin: true
   },
